@@ -1,0 +1,90 @@
+.foto{
+    width: 150px;
+    height: 140px;
+    margin: auto;
+    position: relative;
+    top: -25px;
+    left: 45px;
+}
+.texto>h4{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.imagem{
+    background-color: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    border-radius: 4px;
+}
+
+.divDesconto,.divDescontoVazia{
+    background-color: #DB4444;
+    width: 45px;
+    height: 20px;
+    border-radius: 4px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.divDescontoVazia{
+    background-color: #f5f5f500;
+}
+
+
+.desconto{
+    padding-top: 3px;
+    color: white;
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+.preco{
+    color: #DB4444;
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.precos{
+    display: flex;
+    gap: 20px;
+}
+
+.precoDesconto{
+    font-size: 17px;
+    margin-top: 0;
+    color: gray;
+    text-decoration: line-through;
+}
+
+.icones{
+    width: 30px;
+    height: 30px;
+    position: relative;
+
+}
+
+.divIcones{
+
+    position: relative;
+    left: 210px;
+    top:-10px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.addCart{
+    position: relative;
+    height: 35px;
+    top: -34px;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    padding-left: 75px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}

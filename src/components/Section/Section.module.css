@@ -1,0 +1,85 @@
+.section{
+    margin-left: 135px;
+}
+
+
+.quadradoVermelho{
+    background-color: red;
+    width: 20px;
+    height: 40px;
+    border-radius: 6px;
+    
+}
+
+.subtitulo{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    color: red;
+    
+}
+
+p{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.legendaHorario{
+    display: flex;
+    gap: 60px;
+    margin-left: 298px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 30px;
+    margin-left: 175px;
+    
+}
+
+.horario{
+    display: flex;
+    margin-left: 270px;
+    margin-top: 0px;
+}
+
+.numeroHorario{
+    margin-top: 0px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.titulo{
+    padding-top: 25px;
+    margin-bottom: 0px;
+}
+
+.doisPontosHorario{
+    margin-top: 0px;
+    color: #E07575;
+}
+
+.linhaHorario{
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.topicoHorario{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.setinhas{
+    width: 40px;
+    height: 40px;
+    margin-left: 340px;
+    gap: 10px;
+    display: flex;
+}
+
+.produtos{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+

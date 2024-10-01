@@ -1,0 +1,38 @@
+
+.promotion {
+    display: flex;
+    font-family: inherit, sans-serif;
+    height: 50px;
+    margin: 0;
+    padding: 0px;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: white;
+    background-color: black;
+    position: relative;
+}
+ 
+.shop {
+    padding-left: 8px;
+    font-weight: bold;
+}
+ 
+.dropdown {
+    background: none;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 10%;
+}
+ 
+.dropdown:focus {
+    outline: none;
+}
+ 
+.opcao {
+    color: white;
+    background-color: black;
+}
